@@ -19,6 +19,7 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Express.js](https://img.shields.io/badge/express.js-333333.svg?style=flat&logo=express&logoColor=%2361DAFB)
   ![JWT](https://img.shields.io/badge/JWT-333333?style=flat&logo=JSON%20web%20tokens)
+  ![Vercel](https://img.shields.io/badge/vercel-333333.svg?style=flat&logo=vercel&logoColor=white)
 - 🛢 &nbsp;
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
