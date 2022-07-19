@@ -36,7 +36,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aitortita&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aitortita&theme=buefy&layout=compact" />
 </a>
-<br/>
+<br/><br/><br/>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/javier-aitor-ezcurra-503200230/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aitor%20Ezcurra-blue"></a>
