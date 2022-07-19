@@ -30,7 +30,7 @@
   ![Vercel](https://img.shields.io/badge/vercel-333333.svg?style=flat&logo=vercel)
   ![Heroku](https://img.shields.io/badge/heroku-333333.svg?style=flat&logo=heroku)
 - 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code$logoColor=white)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-333333?style=flat&logo=postman)
 <br/>
 <h3>Some of my projects</h3>
