@@ -41,4 +41,5 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/javier-aitor-ezcurra-503200230/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aitor%20Ezcurra-blue"></a>
+<a href="mailto:aitor_ezcu@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-aitor_ezcu@hotmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
