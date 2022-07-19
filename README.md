@@ -1,5 +1,6 @@
-
+<p align="center">
 <img alt="My banner" src="./assets/Aitor Ezcurra.png">
+</p>
 <h1> Hey there! I'm Aitor.</h1>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
