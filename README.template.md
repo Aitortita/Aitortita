@@ -1,2 +1,2 @@
 
-[![Aitortita's GitHub Banner](./assets/Aitor Ezcurra.png)]
+<img alt="My banner" src="./assets/Aitor Ezcurra.png">
