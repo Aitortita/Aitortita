@@ -4,7 +4,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Always learning new technologies.
+- 🤔 &nbsp; Currently interested in learning Go and Rust to expand my backend knowledge.
 - 🎓 &nbsp; Graduated student at SoyHenry bootcamp.
 - 💼 &nbsp; Currently searching for a job.
 - 🌱 &nbsp; Learning more about Algorithms, design patterns and Internet security.
