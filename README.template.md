@@ -1,14 +1,13 @@
 
-<img alt="My banner" src="./assets/Aitor Ezcurra.png" justify-self="center">
+<img alt="My banner" src="./assets/Aitor Ezcurra.png">
 <h1> Hey there! I'm Aitor.</h1>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- 🤔 &nbsp; Always learning new technologies.
+- 🎓 &nbsp; Graduated student at SoyHenry bootcamp.
+- 💼 &nbsp; Currently searching for a job.
+- 🌱 &nbsp; Learning more about Algorithms, design patterns and Internet security.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -21,7 +20,7 @@
   ![Express.js](https://img.shields.io/badge/express.js-333333.svg?style=flat&logo=express&logoColor=%2361DAFB)
   ![JWT](https://img.shields.io/badge/JWT-333333?style=flat&logo=JSON%20web%20tokens)
 - 🛢 &nbsp;
-  ![PostgreSQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
