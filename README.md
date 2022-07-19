@@ -27,11 +27,11 @@
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Vercel](https://img.shields.io/badge/vercel-333333.svg?style=flat&logo=vercel&logoColor=white)
-  ![Heroku](https://img.shields.io/badge/heroku-333333.svg?style=flat&logo=heroku&logoColor=white)
+  ![Vercel](https://img.shields.io/badge/vercel-333333.svg?style=flat&logo=vercel)
+  ![Heroku](https://img.shields.io/badge/heroku-333333.svg?style=flat&logo=heroku)
 - 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Postman](https://img.shields.io/badge/Postman-333333?style=flat&logo=postman&logoColor=white)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code)
+  ![Postman](https://img.shields.io/badge/Postman-333333?style=flat&logo=postman)
 <br/>
 <h3>Some of my projects</h3>
 <p align="center">
