@@ -32,13 +32,18 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Postman](https://img.shields.io/badge/Postman-333333?style=flat&logo=postman&logoColor=white)
 <br/>
+<h3>Some of my projects</h3>
+<p align="center">
+  <a href="https://videogames-hub.vercel.app">VideogamesHUB</a>
+  <a href="https://proyecto-final-lime-beta.vercel.app">Finanzas Personales</a>
+</p>
 
 <a href="https://github.com/Aitortita">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aitortita&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aitortita&theme=buefy&layout=compact" />
 </a>
-<br/><br/>
-
+<br/>
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/javier-aitor-ezcurra-503200230/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aitor%20Ezcurra-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:aitor_ezcu@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-aitor_ezcu@hotmail.com-blue?style=flat-square&logo=gmail"></a>
