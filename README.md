@@ -1,5 +1,5 @@
 
-<img alt="My banner" src="./assets/Aitor Ezcurra.png">
+<img alt="My banner" src="./assets/Aitor Ezcurra.pnG">
 <h1> Hey there! I'm Aitor.</h1>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
