@@ -18,7 +18,9 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/typescript-333333.svg?style=flat&logo=typescript)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
   ![Express.js](https://img.shields.io/badge/express.js-333333.svg?style=flat&logo=express)
   ![JWT](https://img.shields.io/badge/JWT-333333?style=flat&logo=JSON%20web%20tokens)
 - 🛢 &nbsp;
