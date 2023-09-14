@@ -38,7 +38,7 @@
 <h3>Some of my projects</h3>
 <p align="center">
   <a href="https://videogames-hub.vercel.app"><img alt="VideogamesHUB" src="https://img.shields.io/badge/-VideogamesHUB-blue?style=flat-square"></a>
-  <a href="https://proyecto-final-lime-beta.vercel.app"><img alt="Finanzas personales" src="https://img.shields.io/badge/-Finanzas%20personales-blue?style=flat-square"></a>
+  <a href="https://finances.aitortita.com"><img alt="Finanzas personales" src="https://img.shields.io/badge/-Finanzas%20personales-blue?style=flat-square"></a>
 </p>
 
 <a href="https://github.com/Aitortita">
